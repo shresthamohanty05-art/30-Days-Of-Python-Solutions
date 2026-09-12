@@ -1,0 +1,47 @@
+From: alice@example.com
+To: bob@example.com
+Subject: Project meeting
+
+Hi Bob,
+Can we meet tomorrow to discuss the project?
+Please also invite charlie@example.com.
+
+From: bob@example.com
+To: alice@example.com
+Subject: Re: Project meeting
+
+Sure. I will send the meeting details to alice@example.com
+and charlie@example.com.
+
+From: charlie@example.com
+To: alice@example.com, bob@example.com
+Subject: Project update
+
+Here is the latest update. You can also contact
+david@example.com if you have questions.
+
+From: david@example.com
+To: charlie@example.com
+Subject: Re: Project update
+
+Thanks! I have copied eve@example.com on this email.
+
+From: eve@example.com
+To: david@example.com
+Subject: Documentation
+
+The documents are ready. Please send them to
+alice@example.com and bob@example.com.
+
+From: bob@example.com
+To: eve@example.com
+Subject: Re: Documentation
+
+Received. I will forward a copy to frank@example.com.
+
+From: frank@example.com
+To: bob@example.com
+Subject: Final confirmation
+
+Everything looks good. Please keep alice@example.com
+and charlie@example.com in the loop.
